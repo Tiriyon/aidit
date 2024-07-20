@@ -1,3 +1,20 @@
+---
+date-created: 20231130
+tags:
+- docker
+- skopeo
+- aidit
+- disco
+- disconnected
+- transfer
+- offline
+- docker/registry
+- registry
+- nexus
+- docker/img
+- docker/image
+---
+
 # AIDIT: Air-gapped Image Docker Image Transfer
 
 ## Overview
@@ -48,3 +65,6 @@ AIDIT is a Bash script designed to assist with transferring Docker images to and
 
 This script is licensed under the [MIT License](LICENSE).
 
+## TODO
+
+- [ ] Migrate to DevOps Toolbox
