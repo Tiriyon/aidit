@@ -13,7 +13,8 @@ tags:
 - - nexus
 - - docker/img
 - - docker/image
-- ---
+---
+
 # AIDIT: Air-gapped Image Docker Image Transfer
 ## Overview
 
