@@ -2,17 +2,17 @@
 date-created: 20231130
 tags:
 - docker
-- - skopeo
-- - aidit
-- - disco
-- - disconnected
-- - transfer
-- - offline
-- - docker/registry
-- - registry
-- - nexus
-- - docker/img
-- - docker/image
+- skopeo
+- aidit
+- disco
+- disconnected
+- transfer
+- offline
+- docker/registry
+- registry
+- nexus
+- docker/img
+- docker/image
 ---
 
 # AIDIT: Air-gapped Image Docker Image Transfer
